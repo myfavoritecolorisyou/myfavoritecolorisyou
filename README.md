@@ -3,10 +3,11 @@
 🎯 .NET Developer focused on building scalable, reliable web applications.
 
 ### 🛠️ Tech Stack
+- Front: Blazor(WASM, United)
 - Backend: ASP.NET Core, C#
 - Database: SQL Server
 - Cloud: Microsoft Azure
-- Tools: Git, Visual Studio
+- Tools: Git, Visual Studio, Rider, SSMS(+ADS)
 
 ### 📫 Contact
 - GitHub 업무용: [@defiling7569](https://github.com/defiling7569)
