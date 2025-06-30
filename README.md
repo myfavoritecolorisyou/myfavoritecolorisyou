@@ -1,6 +1,6 @@
 ## 👋 Hello, I'm Eunseok
 
-🎯 .NET Developer focused on building scalable, reliable web applications.
+.NET Developer focused on building scalable, reliable web applications.
 
 ### 🛠️ Tech Stack
 
@@ -16,8 +16,8 @@
 
 
 ### 📚 Writing
-- 📝 Medium (Essays): [@myfavoritecolorisyou](https://medium.com/@myfavoritecolorisyou)
-- 📘 Dev.to (Tech Articles): [dev.to/eunseok_lee](https://dev.to/eunseok_lee_d9af88f3cf8f0)
+- Medium (Essays): [@myfavoritecolorisyou](https://medium.com/@myfavoritecolorisyou)
+- Dev.to (Tech Articles): [dev.to/eunseok_lee](https://dev.to/eunseok_lee_d9af88f3cf8f0)
 
 ### 📫 Contact
 - GitHub 업무용: [@defiling7569](https://github.com/defiling7569)
