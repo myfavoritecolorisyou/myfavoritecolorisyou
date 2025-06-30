@@ -9,6 +9,10 @@
 - Cloud: Microsoft Azure
 - Tools: Git, Visual Studio, Rider, SSMS(+ADS)
 
+### 📚 Writing
+- 📝 Medium (Essays): [@myfavoritecolorisyou](https://medium.com/@myfavoritecolorisyou)
+- 📘 Dev.to (Tech Articles): [dev.to/eunseok_lee](https://dev.to/eunseok_lee_d9af88f3cf8f0)
+
 ### 📫 Contact
 - GitHub 업무용: [@defiling7569](https://github.com/defiling7569)
 
