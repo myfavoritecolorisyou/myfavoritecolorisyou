@@ -25,3 +25,4 @@
 ### 📫 Contact
 
 - GitHub (Work): [@defiling7569](https://github.com/defiling7569)
+- **Work Email**: [defiling7569@buildvision.co.kr](mailto:defiling7569@buildvision.co.kr)
