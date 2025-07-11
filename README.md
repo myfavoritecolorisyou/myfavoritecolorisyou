@@ -21,7 +21,6 @@
 ### 📚 Writing
 
 - Medium (Essays): [@myfavoritecolorisyou](https://medium.com/@myfavoritecolorisyou)  
-- Dev.to (Tech Articles): [@eunseok_lee](https://dev.to/eunseok_lee_d9af88f3cf8f0)
 
 ### 📫 Contact
 
