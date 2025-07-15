@@ -1,4 +1,4 @@
-## 👋 Eunseok | .NET Developer
+## Eunseok | .NET Developer
 
 .NET developer focused on building scalable, reliable web applications.
 
