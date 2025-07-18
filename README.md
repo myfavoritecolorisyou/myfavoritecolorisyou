@@ -20,7 +20,7 @@
 
 ### 📚 Writing
 
-- brunchstory: [이은석](https://brunch.co.kr/@6fec7a387bbf40a)
+- Brunchstory: [이아((孺兒)](https://brunch.co.kr/@6fec7a387bbf40a)
 
 ### 📫 Contact
 
