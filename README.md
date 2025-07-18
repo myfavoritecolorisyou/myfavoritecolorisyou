@@ -20,7 +20,7 @@
 
 ### 📚 Writing
 
-- Medium (Essays): [@myfavoritecolorisyou](https://medium.com/@myfavoritecolorisyou)
+- brunchstory: [이은석](https://brunch.co.kr/@6fec7a387bbf40a)
 
 ### 📫 Contact
 
