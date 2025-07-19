@@ -27,8 +27,3 @@
 ### 📈 GitHub 통계
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=myfavoritecolorisyou&show_icons=true&theme=onedark)
-
-
-### 📝 글
-
-- Brunch: [@iamia](https://brunch.co.kr/@iamia)
