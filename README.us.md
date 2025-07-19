@@ -1,11 +1,9 @@
 ## Eunseok Lee | .NET Developer [![KO](https://img.shields.io/badge/README-KR-brightgreen?style=flat-square)](./README.md) [![EN](https://img.shields.io/badge/README-US-blue?style=flat-square)](./README.us.md) 
 
 [![Brunch](https://img.shields.io/badge/Brunch-@iamia-orange?style=flat&logo=blogger&logoColor=white)](https://brunch.co.kr/@iamia)
-[![Email](https://img.shields.io/badge/Email-defiling7569@buildvision.co.kr-informational?style=flat&logo=gmail&logoColor=white)](mailto:defiling7569@buildvision.co.kr)
+[![Email](https://img.shields.io/badge/Email-@defiling7569-informational?style=flat&logo=gmail&logoColor=white)](mailto:defiling7569@buildvision.co.kr)
 
-Hello, I'm Eunseok Lee, a .NET developer.  
-I have hands-on experience developing scalable and reliable systems in various environments, including enterprise dashboards, internal groupware, and Azure-based services.  
-I also share my thoughts and insights from my development journey on [Brunch Story](https://brunch.co.kr/@iamia).
+Hello, I'm Eunseok Lee, a .NET developer. I have hands-on experience developing scalable and reliable systems in various environments, including enterprise dashboards, internal groupware, and Azure-based services. I also share my thoughts and insights from my development journey on [Brunch Story](https://brunch.co.kr/@iamia).
 
 
 ### 🔧 Tech Stack
