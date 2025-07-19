@@ -1,8 +1,8 @@
 ## Eunseok | .NET Developer
 
-.NET developer focused on building scalable, reliable web applications.
+.NET developer specializing in scalable, reliable web applications.
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat&logo=.net&logoColor=white)
@@ -14,15 +14,15 @@
 ![Rider](https://img.shields.io/badge/Rider-000000?style=flat&logo=jetbrains&logoColor=white)
 ![SSMS](https://img.shields.io/badge/SSMS-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 
-### 📊 GitHub Stats
+### GitHub Stats
 
-![Eunseok's GitHub Stats](https://github-readme-stats.vercel.app/api?username=myfavoritecolorisyou&show_icons=true&theme=onedark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=myfavoritecolorisyou&show_icons=true&theme=onedark)
 
-### 📚 Writing
+### Writing
 
-- Brunchstory: [@iamia](https://brunch.co.kr/@iamia)
+[Brunchstory @iamia](https://brunch.co.kr/@iamia)
 
-### 📫 Contact
+### Contact
 
 - GitHub (Work): [@defiling7569](https://github.com/defiling7569)  
-- **Work Email**: [defiling7569@buildvision.co.kr](mailto:defiling7569@buildvision.co.kr)
+- Email: [defiling7569@buildvision.co.kr](mailto:defiling7569@buildvision.co.kr)
