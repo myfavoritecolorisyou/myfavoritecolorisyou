@@ -20,7 +20,7 @@
 
 ### Writing
 
-- [Brunchstory @iamia](https://brunch.co.kr/@iamia)
+- Brunchstory: [@iamia](https://brunch.co.kr/@iamia)
 
 ### Contact
 
