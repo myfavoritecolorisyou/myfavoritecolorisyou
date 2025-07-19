@@ -1,6 +1,6 @@
 ## 이은석 | .NET 개발자 [![KO](https://img.shields.io/badge/README-KR-brightgreen?style=flat-square)](./README.md) [![EN](https://img.shields.io/badge/README-US-blue?style=flat-square)](./README.us.md) 
 
-.NET 생태계를 중심으로 웹 시스템을 설계하고 구현하는 개발자입니다.  
+안녕하세요, .NET 개발자 이은석입니다.
 기업용 대시보드, 그룹웨어, Azure 운영 등 다양한 환경에서 확장성과 안정성을 고려한 개발 경험을 보유하고 있으며, 성장 과정에서의 고민과 인사이트를 [Brunch Story](https://brunch.co.kr/@iamia)에 기록하고 있습니다.
 
 
