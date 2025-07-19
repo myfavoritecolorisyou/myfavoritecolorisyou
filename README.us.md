@@ -24,7 +24,3 @@ Hello, I’m Eunseok Lee, a .NET developer. I have experience developing scalabl
 ### 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=myfavoritecolorisyou&show_icons=true&theme=onedark)
-
-### 📝 Writing
-
-- Brunch: [@iamia](https://brunch.co.kr/@iamia)
