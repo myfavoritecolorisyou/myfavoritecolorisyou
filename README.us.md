@@ -1,6 +1,12 @@
 ## Eunseok Lee | .NET Developer [![KO](https://img.shields.io/badge/README-KR-brightgreen?style=flat-square)](./README.md) [![EN](https://img.shields.io/badge/README-US-blue?style=flat-square)](./README.us.md) 
 
-Hello, I’m Eunseok Lee, a .NET developer. I have experience developing scalable and reliable systems in various environments, including enterprise dashboards, groupware platforms, and Azure-based infrastructure. I also share thoughts and insights from my development journey on [Brunch Story](https://brunch.co.kr/@iamia).
+[![Brunch](https://img.shields.io/badge/Brunch-@iamia-orange?style=flat&logo=blogger&logoColor=white)](https://brunch.co.kr/@iamia)
+[![Email](https://img.shields.io/badge/Email-defiling7569@buildvision.co.kr-informational?style=flat&logo=gmail&logoColor=white)](mailto:defiling7569@buildvision.co.kr)
+
+Hello, I'm Eunseok Lee, a .NET developer.  
+I have hands-on experience developing scalable and reliable systems in various environments, including enterprise dashboards, internal groupware, and Azure-based services.  
+I also share my thoughts and insights from my development journey on [Brunch Story](https://brunch.co.kr/@iamia).
+
 
 ### 🔧 Tech Stack
 
@@ -14,12 +20,14 @@ Hello, I’m Eunseok Lee, a .NET developer. I have experience developing scalabl
 ![Rider](https://img.shields.io/badge/Rider-000000?style=flat&logo=jetbrains&logoColor=white)
 ![SSMS](https://img.shields.io/badge/SSMS-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 
+
 ### 📌 Key Activities
 
-- Developing and maintaining internal groupware systems
-- Building enterprise dashboards and business web applications
-- Operating Azure services and monitoring cloud cost efficiency
-- Writing technical and reflective posts on Brunch Story
+- Developing and maintaining internal groupware systems  
+- Building enterprise dashboards and web applications  
+- Operating and managing Azure services  
+- Writing on Brunch Story as a tech blogger
+
 
 ### 📈 GitHub Stats
 
