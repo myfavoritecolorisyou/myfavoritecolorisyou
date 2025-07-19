@@ -1,8 +1,10 @@
-## Eunseok | .NET Developer
+## 이은석 | .NET 개발자 [![KO](https://img.shields.io/badge/README-KR-brightgreen?style=flat-square)](./README.md) [![EN](https://img.shields.io/badge/README-US-blue?style=flat-square)](./README.us.md) 
 
-.NET developer specializing in scalable, reliable web applications.
+.NET 생태계를 중심으로 웹 시스템을 설계하고 구현하는 개발자입니다.  
+기업용 대시보드, 그룹웨어, Azure 운영 등 다양한 환경에서 확장성과 안정성을 고려한 개발 경험을 보유하고 있으며, 성장 과정에서의 고민과 인사이트를 [Brunch Story](https://brunch.co.kr/@iamia)에 기록하고 있습니다.
 
-### Tech Stack
+
+### 🔧 기술 스택
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat&logo=.net&logoColor=white)
@@ -14,15 +16,20 @@
 ![Rider](https://img.shields.io/badge/Rider-000000?style=flat&logo=jetbrains&logoColor=white)
 ![SSMS](https://img.shields.io/badge/SSMS-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 
-### GitHub Stats
+
+### 📌 주요 활동
+
+- 사내 그룹웨어 개발 및 장애 대응
+- 기업용 대시보드 및 웹 시스템 개발
+- Azure 서비스 운영
+- Brunch Story 작가 활동
+
+
+### 📈 GitHub 통계
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=myfavoritecolorisyou&show_icons=true&theme=onedark)
 
-### Writing
 
-- Brunchstory: [@iamia](https://brunch.co.kr/@iamia)
+### 📝 글
 
-### Contact
-
-- GitHub (Work): [@defiling7569](https://github.com/defiling7569)  
-- Email: [defiling7569@buildvision.co.kr](mailto:defiling7569@buildvision.co.kr)
+- Brunch: [@iamia](https://brunch.co.kr/@iamia)
