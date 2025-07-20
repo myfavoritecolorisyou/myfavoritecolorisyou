@@ -3,7 +3,7 @@
 [![Brunch](https://img.shields.io/badge/Brunch-@iamia-orange?style=flat&logo=blogger&logoColor=white)](https://brunch.co.kr/@iamia)
 [![Email](https://img.shields.io/badge/Email-@defiling7569-informational?style=flat&logo=gmail&logoColor=white)](mailto:defiling7569@buildvision.co.kr)
 
-안녕하세요, .NET 개발자 이은석입니다. 기업용 대시보드, 그룹웨어, Azure 운영 등 다양한 환경에서 확장성과 안정성을 고려한 개발 경험을 보유하고 있으며, 성장 과정에서의 고민과 인사이트를 브런치스토리에 기록하고 있습니다.
+안녕하세요, .NET 개발자 이은석입니다. ERP, Groupware Azure 운영 등 다양한 환경에서 확장성과 안정성을 고려한 개발 경험을 보유하고 있으며, 성장 과정에서의 고민과 인사이트를 브런치스토리에 기록하고 있습니다.
 
 
 ### 🔧 기술 스택
@@ -22,7 +22,7 @@
 ### 📌 주요 활동
 
 - 사내 그룹웨어 개발 및 장애 대응  
-- 기업용 대시보드 및 웹 시스템 개발  
+- ERP 설꼐 및 개발
 - Azure 서비스 운영  
 - Brunch Story 작가 활동
   
