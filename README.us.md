@@ -3,8 +3,7 @@
 [![Brunch](https://img.shields.io/badge/Brunch-@iamia-orange?style=flat&logo=blogger&logoColor=white)](https://brunch.co.kr/@iamia)
 [![Email](https://img.shields.io/badge/Email-@defiling7569-informational?style=flat&logo=gmail&logoColor=white)](mailto:defiling7569@buildvision.co.kr)
 
-Hello, I'm Eunseok Lee, a .NET developer. I have hands-on experience developing scalable and reliable systems in various environments, including enterprise dashboards, internal groupware, and Azure-based services. I also share my thoughts and insights from my development journey on [Brunch Story](https://brunch.co.kr/@iamia).
-
+Hello, I'm Eunseok Lee, a .NET developer. I have hands-on experience developing scalable and stable systems across various environments, including ERP, groupware, and Azure services. I also share personal reflections and professional insights through my writing on Brunch Story.
 
 ### 🔧 Tech Stack
 
@@ -18,14 +17,12 @@ Hello, I'm Eunseok Lee, a .NET developer. I have hands-on experience developing 
 ![Rider](https://img.shields.io/badge/Rider-000000?style=flat&logo=jetbrains&logoColor=white)
 ![SSMS](https://img.shields.io/badge/SSMS-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 
-
 ### 📌 Key Activities
 
-- Developing and maintaining internal groupware systems  
-- Building enterprise dashboards and web applications  
-- Operating and managing Azure services  
-- Writing on Brunch Story as a tech blogger
-
+- Development and maintenance of internal groupware systems  
+- ERP design and development  
+- Operation and maintenance of Azure services  
+- Writing and publishing on Brunch Story  
 
 ### 📈 GitHub Stats
 
