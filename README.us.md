@@ -3,7 +3,7 @@
 [![Brunch](https://img.shields.io/badge/Brunch-@iamia-orange?style=flat&logo=blogger&logoColor=white)](https://brunch.co.kr/@iamia)
 [![Email](https://img.shields.io/badge/Email-@defiling7569-informational?style=flat&logo=gmail&logoColor=white)](mailto:defiling7569@buildvision.co.kr)
 
-Hello, I'm Eunseok Lee, a .NET developer. I have hands-on experience developing scalable and stable systems across various environments, including ERP, groupware, and Azure services. I also share personal reflections and professional insights through my writing on Brunch Story.
+Hello, I'm Eunseok Lee, a .NET developer. I have hands-on experience developing scalable and stable systems across various environments, including groupware, and Azure services. I also share personal reflections and professional insights through my writing on Brunch Story.
 
 ### 🔧 Tech Stack
 
@@ -20,7 +20,7 @@ Hello, I'm Eunseok Lee, a .NET developer. I have hands-on experience developing 
 ### 📌 Key Activities
 
 - Development and maintenance of internal groupware systems  
-- ERP design and development  
+- Design and Development of Business System Templates 
 - Operation and maintenance of Azure services  
 - Writing and publishing on Brunch Story  
 
