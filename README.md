@@ -1,4 +1,4 @@
-## 이은석 | .NET 개발자 [![KO](https://img.shields.io/badge/README-KR-brightgreen?style=flat-square)](./README.md) [![EN](https://img.shields.io/badge/README-US-blue?style=flat-square)](./README.us.md) 
+## 이은석 | .NET 개발자. [![KO](https://img.shields.io/badge/README-KR-brightgreen?style=flat-square)](./README.md) [![EN](https://img.shields.io/badge/README-US-blue?style=flat-square)](./README.us.md) 
 
 [![Brunch](https://img.shields.io/badge/Brunch-@iamia-orange?style=flat&logo=blogger&logoColor=white)](https://brunch.co.kr/@iamia)
 [![Email](https://img.shields.io/badge/Email-@defiling7569-informational?style=flat&logo=gmail&logoColor=white)](mailto:defiling7569@buildvision.co.kr)
